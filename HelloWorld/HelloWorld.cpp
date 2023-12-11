@@ -4,7 +4,7 @@
 int main()
 {
 	
-	int code = MessageBox(0, L"jimmy", L"sd", MB_OKCANCEL);
+	int code = MessageBox(0, L"JONEEEEE", L"LEEEROY", MB_OKCANCEL);
 
 	if (code == IDOK)
 	{
